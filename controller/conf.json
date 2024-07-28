@@ -1,0 +1,18 @@
+{
+    "host": "localhost",
+    "pub": "5000",
+    "sub": [
+            {
+                "sname": "BMS",
+                "sport": "5001"
+            },
+            {
+                "sname": "camera",
+                "sport": "5002"
+            },
+            {
+                "sname": "gpio",
+                "sport": "5003"
+            }
+    ]
+}

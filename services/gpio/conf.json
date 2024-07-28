@@ -1,0 +1,10 @@
+{
+    "host": "localhost",
+    "pub": "5003",
+    "sub": [
+        {
+            "sname": "controller",
+            "sport": "5000"
+        }
+    ]
+}
